@@ -38,12 +38,12 @@ The single most important goal driving our design decisions: the turbine had to 
 
 | Folder | Contents |
 |---|---|
-| `docs/` | Specifications, stakeholder analysis, project exploration, design rationale (Design Map, Mid-Level Prototype selection) |
-| `concepts/` | Early concept sketches and renders (Early Bird Designs) |
-| `surveys/` | Aesthetics survey and collected responses used to guide the design direction |
-| `cost/` | Cost estimate spreadsheet, checked against the client's $150 target |
-| `media/` | Test-rig footage of the prototype in operation |
-| `presentation/` | Final presentation deck |
+| `Docs/` | Specifications, stakeholder analysis, project exploration, design rationale (Design Map, Mid-Level Prototype selection) |
+| `Concepts/` | Early concept sketches and renders (Early Bird Designs) |
+| `Surveys/` | Aesthetics survey and collected responses used to guide the design direction |
+| `Cost/` | Cost estimate spreadsheet, checked against the client's $150 target |
+| `Media/` | Test-rig footage of the prototype in operation |
+| `Presentation/` | Final presentation deck |
 
 ## Team
 
